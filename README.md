@@ -1,3 +1,5 @@
+https://github.com/vitest-dev/vitest/issues/6693 reproduction.
+
 1. `pnpm install`
 2. `pnpm run test`
 3. Observe that browser test succeeds
